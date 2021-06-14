@@ -1,0 +1,52 @@
+body  {
+  background-color: hsl(233, 47%, 7%);
+  color: white;
+  text-align: center;
+  margin: 0;
+}
+.card {
+  background-color: hsl(244, 38%, 16%);
+  width: 60%;
+  height: 400px;
+  margin: 160px auto;
+  border-radius: 1%;
+}
+.insights {
+  color: hsl(277, 64%, 61%);
+}
+.main {
+  font-weight: bold;
+}
+img {
+  width: 30%;
+  height: 400px;
+  position: absolute;
+}
+h1 {
+  font-family: 'Inter', sans-serif;
+  font-weight: 700;
+}
+.top {
+  width: 37%;
+  padding: 5% 5% 2% 6%;
+  text-align: left;
+
+}
+.bottom {
+  width: 42%;
+  padding: 5% 0 2% 3%;
+  text-align: left;
+  line-height: 1.5;
+}
+.words-mini-box {
+  font-weight: 600;
+  font-size: 125%;
+  font-family: 'Inter', sans-serif;
+}
+.mini-box {
+  display: inline-block;
+  margin: 0 8%;
+}
+.tiniest-box {
+  font-size: 75%;
+}
